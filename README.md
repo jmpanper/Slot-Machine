@@ -7,5 +7,5 @@ The project currently has one main script, where all the logic of the Slot machi
 
 Future Changes:
 - Making it more visual
-- - implementing score boards
+- Implementing scoreboards
 
